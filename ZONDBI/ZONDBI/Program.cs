@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Теорема Ферма доказана.");
+﻿1Console.WriteLine("Теорема Ферма доказана.");
